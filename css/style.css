@@ -185,7 +185,7 @@ max-width: 100%;
     color: #241616;
 }
 #contact {
-    color: #ffffffff;
+    color: rgb(15, 13, 13);
     text-align: center;
 }
 h2{
@@ -307,6 +307,9 @@ h2{
   }
   .slick-arrow.slick-hidden {
       display: none;
+  }
+  .p1 {
+      font-size:30px;
   }
 
   
