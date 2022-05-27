@@ -18,6 +18,7 @@ text-decoration:none ;
 .container1 {
     width: 50%;
     margin: auto;
+   
 }
 .container3 {
     background-color: #F4E2DE;
@@ -82,7 +83,7 @@ li{
     font-size: 25px;
 }
 
-    .menu a{
+.menu a{
     color: #2b2929 ;
     margin-right: 20px;
     }
@@ -355,3 +356,4 @@ h2{
         -26px 52px 1px #dfdddc, 
         -27px 54px 1px #e2e0df, 
         -28px 56px 1px #e4e3e2;}
+
